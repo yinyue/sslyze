@@ -1,0 +1,1 @@
+SSLyze是一款利用python编写的工具，它可以分析服务器的SSL配置，能够快速、全面的协助测试人员发现SSL服务器的配置错误。http://www.freebuf.com/tools/22984.html
